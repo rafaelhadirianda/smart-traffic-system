@@ -1,0 +1,8 @@
+Flask
+flask-cors
+Flask-Limiter
+ultralytics
+opencv-python-headless
+gunicorn
+numpy
+Pillow
